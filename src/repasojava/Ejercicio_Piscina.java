@@ -8,7 +8,7 @@ import repasojava.model.Piscina;
 import repasojava.util.DuplicateDNIException;
 import repasojava.util.IOManager;
 import repasojava.utils.Util;
-import reservasService.BookingManager;
+import repasojava.reservasService.BookingManager;
 
 /**
  *
